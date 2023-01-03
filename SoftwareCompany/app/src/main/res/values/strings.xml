@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Software Company</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="username">UserName</string>
+    <string name="user_name">User Name</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="female">female</string>
+    <string name="male">male</string>
+    <string name="i_accept_the_license">I accept the license</string>
+    <string name="send_me_e_mails">send me e-mails</string>
+    <string name="software_testing">software testing</string>
+    <string name="sorting">Sorting</string>
+    <string name="sql">SQL</string>
+    <string name="stack">Stack</string>
+    <string name="stl">Stl</string>
+    <string name="strings">Strings</string>
+    <string name="android">Android</string>
+    <string name="arrays">Arrays</string>
+    <string name="summary">Summary</string>
+</resources>
